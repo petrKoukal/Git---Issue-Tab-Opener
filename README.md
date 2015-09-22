@@ -14,7 +14,7 @@ javascript:(function(e,a,g,h,f,c,b,d)%7Bif(!(f%3De.jQuery)%7C%7Cg>f.fn.jquery%7C
 
 3) Click the newly created bookmark
 
-4) You'll probably have to allow opening popups on *.github domain (icon in the right corner of the URL address bar)
+4) **You have to allow opening popups on *.github domain (icon in the right corner of the URL address bar)**
 
 TA DAAAA - issues open in its own tab. No more right-clicking around
 
